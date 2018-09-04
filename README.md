@@ -7,7 +7,7 @@ Create a games library that will allow a user to catalogue their games across di
 ### Getting Started
 
 - `npm install`
-- `npm run dev`
+- `npm start`
 
 You can also `npm test` to run basic tests.
 
